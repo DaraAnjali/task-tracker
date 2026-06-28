@@ -6,9 +6,9 @@ A full-stack Task Tracker web application built using the MERN Stack. The applic
 
 ## 🚀 Live Demo
 
-**Frontend:** https://your-vercel-url.vercel.app
+**Frontend:** https://task-tracker-six-rho-56.vercel.app/
 
-**Backend:** https://your-render-url.onrender.com
+**Backend:** https://task-tracker-api-l31g.onrender.com
 
 ---
 
